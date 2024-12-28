@@ -1,16 +1,16 @@
-Type﻿,1 Minute,5 Minute,15 Minute,30 Minute,1 hour,2 hours,4 hours,1 day,1 week,1 Month
-Exponential Moving Average (10),Buy,Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Buy
-Simple Moving Average (10),Buy,Buy,Sell,Sell,Buy,Buy,Buy,Sell,Sell,Sell
-Exponential Moving Average (20),Buy,Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy
-Simple Moving Average (20),Buy,Buy,Sell,Buy,Buy,Buy,Sell,Sell,Sell,Buy
-Exponential Moving Average (30),Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Sell,Buy
-Simple Moving Average (30),Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy
-Exponential Moving Average (50),Buy,Sell,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy
-Simple Moving Average (50),Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy,Buy
-Exponential Moving Average (100),Buy,Buy,Sell,Sell,Sell,Sell,Sell,Sell,Buy,Buy
-Simple Moving Average (100),Sell,Buy,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy
-Exponential Moving Average (200),Sell,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy,Buy
-Simple Moving Average (200),Sell,Buy,Sell,Sell,Sell,Sell,Sell,Sell,Buy,Buy
-"Ichimoku Base Line (9, 26, 52, 26)",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
-Volume Weighted Moving Average (20),Buy,Buy,Sell,Buy,Buy,Buy,Sell,Sell,Sell,Buy
-Hull Moving Average (9),Sell,Buy,Buy,Buy,Buy,Sell,Buy,Buy,Sell,Sell
+﻿Type,1 Minute,5 Minute,15 Minute,30 Minute,1 hour,2 hours,4 hours,1 day,1 week,1 Month
+Exponential Moving Average 10,Buy,Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Buy
+Simple Moving Average 10,Buy,Buy,Sell,Sell,Buy,Buy,Buy,Sell,Sell,Sell
+Exponential Moving Average 20,Buy,Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy
+Simple Moving Average 20,Buy,Buy,Sell,Buy,Buy,Buy,Sell,Sell,Sell,Buy
+Exponential Moving Average 30,Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Sell,Buy
+Simple Moving Average 30,Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy
+Exponential Moving Average 50,Buy,Sell,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy
+Simple Moving Average 50,Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy,Buy
+Exponential Moving Average 100,Buy,Buy,Sell,Sell,Sell,Sell,Sell,Sell,Buy,Buy
+Simple Moving Average 100,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy
+Exponential Moving Average 200,Sell,Buy,Sell,Sell,Sell,Sell,Sell,Buy,Buy,Buy
+Simple Moving Average 200,Sell,Buy,Sell,Sell,Sell,Sell,Sell,Sell,Buy,Buy
+"Ichimoku Base Line 9, 26, 52, 26",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+Volume Weighted Moving Average 20,Buy,Buy,Sell,Buy,Buy,Buy,Sell,Sell,Sell,Buy
+Hull Moving Average 9,Sell,Buy,Buy,Buy,Buy,Sell,Buy,Buy,Sell,Sell
