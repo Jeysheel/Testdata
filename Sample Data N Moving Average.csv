@@ -1,4 +1,4 @@
-﻿,1 Minute,5 Minute,15 Minute,30 Minute,1 hour,2 hours,4 hours,1 day,1 week,1 Month
+Type﻿,1 Minute,5 Minute,15 Minute,30 Minute,1 hour,2 hours,4 hours,1 day,1 week,1 Month
 Exponential Moving Average (10),Buy,Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Buy
 Simple Moving Average (10),Buy,Buy,Sell,Sell,Buy,Buy,Buy,Sell,Sell,Sell
 Exponential Moving Average (20),Buy,Buy,Sell,Buy,Buy,Sell,Sell,Sell,Sell,Buy
