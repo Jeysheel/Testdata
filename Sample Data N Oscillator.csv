@@ -1,0 +1,12 @@
+﻿,1 Minute,5 Minute,15 Minute,30 Minute,1 hour,2 hours,4 hours,1 day,1 week,1 Month
+Relative Strength Index (14),Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"Stochastic %K (14, 3, 3)",Neutral,Neutral,Buy,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+Commodity Channel Index (20),Sell,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+Average Directional Index (14),Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+Awesome Oscillator,Neutral,Neutral,Sell,Neutral,Neutral,Neutral,Neutral,Neutral,Buy,Neutral
+Momentum (10),Buy,Buy,Buy,Buy,Buy,Buy,Sell,Buy,Buy,Sell
+"MACD Level (12, 26)",Buy,Buy,Sell,Sell,Buy,Buy,Sell,Sell,Sell,Buy
+"Stochastic RSI Fast (3, 3, 14, 14)",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Buy,Neutral,Neutral
+Williams Percent Range (14),Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Buy,Neutral
+Bull Bear Power,Neutral,Neutral,Buy,Sell,Sell,Sell,Neutral,Neutral,Buy,Neutral
+"Ultimate Oscillator (7, 14, 28)",Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
